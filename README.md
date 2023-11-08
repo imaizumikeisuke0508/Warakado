@@ -1,24 +1,20 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Warakado
+## サイト概要
+### サイトテーマ
+会員登録型の回答と評価を相互に行う大喜利サイト
+### テーマを選んだ理由
+今持つ知識を使って何が出来るか考えた時、好きな大喜利のサイトを作ることが出来ると考えました。
+会員数に応じて情報量が多くなってしまうため、管理者のみがお題を作成できるようにし、
+非会員は閲覧のみが可能、会員には回答と評価機能を付与し、文字数に上限を設けます。
+また、閲覧者の求めるユーモアを提供できるようにするため、回答に対する評価機能とランキング機能を付与します。
+### ターゲットユーザー
+大喜利が好きな人、また回答して評価されたい人。
+日本語的な面白さを探求している人。
+### 主な利用シーン
+待ち時間など、退屈している時、手早く面白いものを見たい時。
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
