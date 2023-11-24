@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Genre: MyString
+  Response: MyString
+  Vote: MyString
+  Bookmark: MyString
+
+two:
+  Genre: MyString
+  Response: MyString
+  Vote: MyString
+  Bookmark: MyString
